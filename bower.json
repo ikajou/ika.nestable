@@ -6,11 +6,14 @@
     "ikajou <github.com/ikajou>"
   ],
   "description": "Drag & drop hierarchical list with mouse and touch compatibility ",
-  "main": ["jquery.nestable.min.js", "jquery.nestable.min.css"],
+  "main": [
+    "jquery.nestable.min.js",
+    "jquery.nestable.min.css"
+  ],
   "keywords": [
     "jquery",
     "nestable",
   ],
-  "license": ["MIT", "BSD"],
+  "license": "MIT",
   "homepage": "dbushell.com"
 }
