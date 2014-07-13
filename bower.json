@@ -1,0 +1,16 @@
+{
+  "name": "ika.nestable",
+  "version": "0.1.0",
+  "authors": [
+    "David Bushell <dbushell.com>",
+    "ikajou <github.com/ikajou>"
+  ],
+  "description": "Drag & drop hierarchical list with mouse and touch compatibility ",
+  "main": ["jquery.nestable.min.js", "jquery.nestable.min.css"],
+  "keywords": [
+    "jquery",
+    "nestable",
+  ],
+  "license": ["MIT", "BSD"],
+  "homepage": "dbushell.com"
+}
