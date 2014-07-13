@@ -5,11 +5,8 @@
     "David Bushell <dbushell.com>",
     "ikajou <github.com/ikajou>"
   ],
-  "description": "Drag & drop hierarchical list with mouse and touch compatibility ",
-  "main": [
-    "jquery.nestable.min.js",
-    "jquery.nestable.min.css"
-  ],
+  "description": "Drag & drop hierarchical list with mouse and touch compatibility",
+  "main": "jquery.nestable.min.js",
   "keywords": [
     "jquery",
     "nestable",
